@@ -1,2 +1,2 @@
 # WebDev_Lab5Task
-Code created for completing Lab 5 task for BIM21203: WEB DEVELOPMENT
+Code created for completing Lab 5 tasks for BIM21203: WEB DEVELOPMENT
